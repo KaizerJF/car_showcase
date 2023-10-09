@@ -2,8 +2,6 @@
 
 # Car Hub
 
-## Overview
-
 This is a web application built using Next.js, React.js, Tailwind CSS, and TypeScript.
 
 ## Tech Stack
